@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "node install",
     "start": "node app.js"
   },
   "keywords": [],
